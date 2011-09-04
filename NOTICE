@@ -4,3 +4,14 @@ emonk_helper
 2011 (c) Benoît Chesneau <benoitc@e-engura.org>
 
 emonk_helper is released under the Apache 2 license. See the LICENSE file for the complete license.
+
+
+
+emonk_ctx_pool
+--------------
+
+Based on riak_kv_js_manager under Apache 2 license
+
+Copyright (c) 2007-2010 Basho Technologies, Inc.  All Rights Reserved.
+
+
