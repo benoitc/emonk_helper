@@ -25,7 +25,7 @@ stop_pool(Name) ->
     emonk_helper_sup:stop(Name).
 
 poolsize(Name) ->
-    monk_ctx_pool:poolsize(Name).
+    emonk_ctx_pool:poolsize(Name).
 
 reserve_ctx(PoolName) ->
     emonk_ctx_pool:reserve_ctx(PoolName).
